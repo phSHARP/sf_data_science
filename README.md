@@ -4,7 +4,7 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-scienti
 
 ## Projects
 
-* [Project 0. The game: Guess the number](https://github.com/phSHARP/sf_data_science/project_0)
+* [Project 0. The game: Guess the number](https://github.com/phSHARP/sf_data_science/tree/main/project_0)
 * [Project 1. _](_)
 * [Project 2. _](_)
 
